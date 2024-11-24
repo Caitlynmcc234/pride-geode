@@ -2,8 +2,8 @@
 	"geode": "4.0.1",
 	"gd": {
 		"android": "2.206",
-		"mac": "2.2074",
-		"win": "2.206"
+		"mac": "2.206",
+		"win": "2.2074"
 	},
 	"version": "v1.0.5",
 	"id": "acaruso.pride",
